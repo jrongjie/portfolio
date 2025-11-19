@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Additional files
+*.scss
+*.css.map
+*.ds_Store
