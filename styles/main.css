@@ -260,6 +260,7 @@ div.project, a.project {
   text-align: left;
 }
 div.project h3, a.project h3 {
+  color: var(--text-color);
   font-size: 1.2rem;
   line-height: 1.5rem;
   padding: 0.5rem 0;
